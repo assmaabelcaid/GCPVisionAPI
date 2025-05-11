@@ -1,4 +1,4 @@
-#  Cloud Vision APi
+# Google Cloud Vision APi
 I have to write this document yet, in the meantime here some nice pics:
 
 ![1.jpg](Md_stamps/1.jpg)
